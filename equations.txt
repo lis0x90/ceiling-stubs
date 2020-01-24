@@ -1,0 +1,14 @@
+﻿"HoleDiameter"=67.5
+"HoleDiameterError"=1
+"InsertInletDiameter"="HoleDiameter" - "HoleDiameterError"
+"InsertRimWidth"=5
+"InsertInletThickness"=6
+"InsertInletHeight"=12.5
+"CapRimWidth"=2
+"CapRimThickness"=1.2
+"InsertRimThickness"=0.4
+"JunctionError"=0.2
+"JunctionDiameter"="InsertInletDiameter" - "InsertInletThickness"
+"CapDepth"=("InsertRimThickness"+"InsertInletHeight")*0.7
+"DriverSlotsDistance"=40
+
