@@ -1,5 +1,5 @@
-# Ceiling Stubs 
-This is manhole designed to mount in dry-wall ceilings.
+# Ceiling Hatch
+This is hatch designed to mount in dry-wall ceilings.
 
 ![Stub](https://github.com/lis0x90/ceiling-stubs/raw/master/docs/view1.png)
 ![Stub](https://github.com/lis0x90/ceiling-stubs/raw/master/docs/view2.png)
